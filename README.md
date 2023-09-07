@@ -19,3 +19,7 @@ This project It's divided into two parts
 
 https://github.com/Marwanhoo/flutter-demo-app-video-and-voice-calling/assets/125823028/f2e674f8-172f-48f7-981c-923f4f31f2ae
 
+#
+Special Thanks
+
+All love, respect and appreciation To Eng / [Mostafa Shoir](https://www.linkedin.com/in/mostafa-shoir-265005124/) 💕
